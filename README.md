@@ -1,2 +1,2 @@
 # Mapty_Javascript
-Javascript Project made with course
+Javascript based Web Application
